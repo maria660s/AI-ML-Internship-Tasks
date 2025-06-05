@@ -26,4 +26,3 @@ The Iris dataset in CSV format (`iris.csv`) was used for this task.
 - Descriptive statistics and data exploration
 - Basic plotting and visualization with `seaborn` and `matplotlib`
 
-## Commit Message Used
