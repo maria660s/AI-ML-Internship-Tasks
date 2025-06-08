@@ -6,7 +6,7 @@ Build a machine learning model to predict whether a person is at risk of heart d
 ---
 
 ## 📂 Dataset
-**Source**: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+**Source**: [UCI Heart Disease Dataset]([https://www.kaggle.com/datasets/ronitf/heart-disease-uci](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data))
 
 - **Rows**: 920 patients
 - **Columns**: 16 (demographic, clinical, and target data)
